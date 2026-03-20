@@ -1,0 +1,8 @@
+=== DeepLabV3 复杂场景分析报告 ===
+样本ID: 39
+
+各类别性能指标:
+
+background: Precision=94.84%, Recall=96.79%, IoU=91.95%
+bicycle: Precision=45.46%, Recall=93.76%, IoU=44.12%
+person: Precision=84.05%, Recall=91.26%, IoU=77.78%
