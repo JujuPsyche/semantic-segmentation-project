@@ -1,6 +1,5 @@
 # semantic-segmentation-project
 
-# Semantic Segmentation Project
 
 ## Overview
 
